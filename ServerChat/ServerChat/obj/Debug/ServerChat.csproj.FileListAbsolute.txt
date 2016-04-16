@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.exe
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.csprojResolveAssemblyReference.cache
